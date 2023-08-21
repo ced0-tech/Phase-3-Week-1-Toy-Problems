@@ -23,11 +23,11 @@ It contains three challenges:
 
 * Git clone this repository into your local machine
 ```bash
-$ git clone https://github.com/JOY19ANYANGO/voyage-trvl.git
+$ git clone git@github.com:ced0-tech/Phase-3-Week-1-Toy-Problems.git
 ```
 * Navigate into this folder.
 ```bash
-$ cd voyage-trvl
+$ cd Phase-3-Week-1-Toy-Problems
 ```
 * Open in your vs code
 ```bash
